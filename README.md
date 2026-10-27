@@ -52,25 +52,13 @@ Dosya bulunamaması, okuma hataları ve hatalı sayısal değerler için hata y�
 
 5. Kullanılan Teknolojiler
 
-Teknoloji
+Java:Uygulama mantığının ve simülasyonun geliştirilmesi
 
-Kullanım Amacı
+Java Collections Framework:Proses listesinin ve bekleme kuyruğunun yönetilmesi
 
-Java
+Dosya Okuma İşlemleri:Proses bilgilerinin metin dosyasından alınması
 
-Uygulama mantığının ve simülasyonun geliştirilmesi
-
-Java Collections Framework
-
-Proses listesinin ve bekleme kuyruğunun yönetilmesi
-
-Dosya Okuma İşlemleri
-
-Proses bilgilerinin metin dosyasından alınması
-
-Thread.sleep()
-
-Proses çalışma sürelerinin zaman gecikmeleriyle simüle edilmesi
+Thread.sleep(): Proses çalışma sürelerinin zaman gecikmeleriyle simüle edilmesi
 
 6. Girdi Dosyası Formatı
 
